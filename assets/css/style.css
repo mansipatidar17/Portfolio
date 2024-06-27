@@ -859,7 +859,10 @@ text-align: justify;}
  * skills 
  */
 
-  .skills-title {
+  
+
+
+ .skills-title {
   margin-bottom: 20px;
 }
 
@@ -896,9 +899,6 @@ text-align: justify;}
   color: var(--light-gray);
   font-size: 1.2em;
 }
-
-
-
 
 
 
